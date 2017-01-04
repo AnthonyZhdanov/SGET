@@ -1,0 +1,2 @@
+# SGET
+Square equation calculation
